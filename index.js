@@ -7,7 +7,7 @@ function sleep(milliseconds) {
     }
   }
   function hehe(i){
-      //for (let i = 0; i < 248; i++) {
+      //for (let i = 0; i < 348; i++) {
           sleep(2000);
           fetch("https://app.monprotocol.ai/api/trpc/quests.setQuestCompletion", {
             method: "POST",
@@ -23,7 +23,7 @@ function sleep(milliseconds) {
       //}
   }
   
-  for (let i = 0; i < 248; i++){
+  for (let i = 0; i < 348; i++){
           hehe(i)
           console.log(i)
       }
