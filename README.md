@@ -1,4 +1,4 @@
-# Skrip Mon Protocol Auto Quest
+# Mon Protocol Auto Claim Quest Point
 
 Skrip ini digunakan untuk mengirimkan permintaan POST ke API `quests.setQuestCompletion` dalam jumlah besar.
 
