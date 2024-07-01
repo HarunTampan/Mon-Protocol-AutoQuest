@@ -1,4 +1,4 @@
-# Skrip Testnet dan Airdrop
+# Skrip Mon Protocol Auto Quest
 
 Skrip ini digunakan untuk mengirimkan permintaan POST ke API `quests.setQuestCompletion` dalam jumlah besar.
 
